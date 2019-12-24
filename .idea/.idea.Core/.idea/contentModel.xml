@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Matt\.Rider2019.2\config\scratches" t="IncludeRecursive" />
+    <e p="C:\Users\Matt\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Matt\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_Core.-416850527.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Matt\Core" t="IncludeRecursive">
+      <e p="Assets" t="Include">
+        <e p="Munderwood.Core" t="Include">
+          <e p="Runtime" t="Include">
+            <e p="Invoker" t="Include">
+              <e p="BasicTypeInvoker.cs" t="Include" />
+            </e>
+            <e p="Munderwood.Core.Runtime.asmdef" t="Include" />
+            <e p="Resolver" t="Include">
+              <e p="TypeResolver.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Core.sln" t="IncludeFlat" />
+      <e p="Munderwood.Core.Runtime.csproj" t="IncludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
